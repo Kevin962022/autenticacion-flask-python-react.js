@@ -6,7 +6,6 @@ export const SignUp = () => {
     return (
         <div className="container-fluid d-flex flex-column align-items-center justify-content-center vh-100">
             <div className="w-100" style={{ maxWidth: "400px" }}>
-                {/* Formulario centrado */}
                 <div className="p-4 rounded bg-light shadow">
                     <Form />
                     <div className="text-center mt-4">

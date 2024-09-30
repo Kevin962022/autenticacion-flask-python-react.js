@@ -84,7 +84,7 @@ export const Form = () => {
                         type="text" 
                         className="form-control" 
                         id="nameAdd" 
-                        placeholder="Name" 
+                        placeholder="Nombre" 
                         onChange={handleData} 
                         required
                     />
@@ -97,7 +97,7 @@ export const Form = () => {
                         type="email" 
                         className="form-control" 
                         id="emailAdd" 
-                        placeholder="name@gmail.com" 
+                        placeholder="example@gmail.com" 
                         onChange={handleData} 
                         required
                     />
@@ -110,7 +110,7 @@ export const Form = () => {
                         type="password" 
                         className="form-control" 
                         id="passAdd" 
-                        placeholder="Ejm. M4ge3k$" 
+                        placeholder="Kqweqw123@%" 
                         onChange={handleData} 
                         required
                     />
